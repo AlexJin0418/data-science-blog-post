@@ -28,6 +28,10 @@ For this project, we are interestested in using residential homes in Ames, Iowa 
 <a id='file'></a>
 ## File Descriptions
 
+The text file `data_description` contains full descriptions of each column.
+
+The csv file `train.csv` is the dataset we use for this project.
+
 <a id='result'></a>
 ## Results
 
