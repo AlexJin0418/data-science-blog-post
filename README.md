@@ -21,9 +21,9 @@ The code should run without issues with the Anaconda distribution of Python and 
 
 For this project, we are interestested in using residential homes in Ames, Iowa data to better understand:
 
-1.
-2.
-3.
+1. What story can we tell from our target variable SalePrice?
+2. What features do people care about most when they buy a house?
+3. How accurately can we perform on predicting the houses sale prices?
 
 <a id='file'></a>
 ## File Descriptions
