@@ -32,10 +32,12 @@ The text file `data_description.txt` contains full descriptions of each column.
 
 The csv file `train.csv` and `test.csv` are the datasets we use for this project.
 
+The `UdacityProjectBlogPost_HousePrices.ipynb` file is the notebook of detailed analysis.
+
 <a id='result'></a>
 ## Results
 
-The main findings of the project can be found at the post available [here].
+The main findings of the project can be found at the post available [here](https://medium.com/@alexjin48/predicting-house-prices-using-machine-learning-basics-3561ce232e76).
 
 <a id='acknowledgement'></a>
 ## Acknowledgements
